@@ -1,7 +1,13 @@
 body {
   background-color: #990000;
 }
-div {
+text {
+  color: #000000;
+}
+hr {
+  color: #66FF00;
+}
+#donate {
     height: 50px;
     width: 120px;
     border-color: #6495ED;
@@ -11,4 +17,8 @@ div {
     border-radius: 5px;
     margin: auto;
     text-align: center;
+    float: right;
+}
+#title {
+  float: left;
 }
